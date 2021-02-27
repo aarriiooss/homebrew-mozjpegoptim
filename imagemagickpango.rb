@@ -1,4 +1,4 @@
-class ImagemagickPango < Formula
+class Imagemagickpango < Formula
   desc "Tools and libraries to manipulate images in many formats"
   homepage "https://www.imagemagick.org/"
   url "https://dl.bintray.com/homebrew/mirror/ImageMagick-7.0.11-1.tar.xz"
