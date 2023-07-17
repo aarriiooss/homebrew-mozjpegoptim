@@ -13,7 +13,7 @@ class Ssimulacra2 < Formula
 
   def install
     mkdir "build" do
-      system "cmake", "../src", "-G", "ninja"
+      system "cmake", "../src", "-G", "Ninja"
       system "ninja", "ssimulacra2"
       system "strip", "ssimulacra2"
       bin.install "ssimulacra2"
