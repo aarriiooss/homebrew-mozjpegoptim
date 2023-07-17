@@ -1,8 +1,8 @@
 class Mozjpegoptim < Formula
   desc "jpegoptim compiled with mozjpeg for better quality"
   homepage "https://github.com/tjko/jpegoptim"
-  url "https://github.com/tjko/jpegoptim/archive/RELEASE.1.4.6.tar.gz"
-  sha256 "c44dcfac0a113c3bec13d0fc60faf57a0f9a31f88473ccad33ecdf210b4c0c52"
+  url "https://github.com/tjko/jpegoptim/archive/v1.5.4.tar.gz"
+  sha256 "8fc7537f722d533ea8b45966ab80c83e3342d088d5a690fdadfb05b7c9cba47f"
   
   conflicts_with "jpegoptim", :because => "jpegoptim also has a jpegoptim binary"
 
