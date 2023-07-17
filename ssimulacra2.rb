@@ -1,4 +1,4 @@
-class ssimulacra2 < Formula
+class Ssimulacra2 < Formula
   desc "tool for checking image similarity"
   homepage "https://github.com/cloudinary/ssimulacra2"
   url "https://github.com/cloudinary/ssimulacra2/archive/v2.1.tar.gz"
